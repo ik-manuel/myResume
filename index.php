@@ -386,7 +386,7 @@
             <div class="eight columns">
 
                <!-- form -->
-               <form action="" method="post" id="contactForm" name="contactForm">
+               <form action="inc/sendEmail.php" method="post" id="contactForm" name="contactForm">
 					<fieldset>
 
                   <div>
@@ -460,13 +460,12 @@
          <div class="twelve columns">
 
             <ul class="social-links">
-               <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-               <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-               <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-               <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-               <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+               <li><a href="facebook.com/profile.php?id=100010233827257"><i class="fa fa-facebook"></i></a></li>
+               <li><a href="twitter.com/manuelhsp_"><i class="fa fa-twitter"></i></a></li>
+               <li><a href="linkedin.com/in/ik-manuel"><i class="fa fa-linkedin"></i></a></li>
+               <li><a href="instagram.com/manuelhsp_"><i class="fa fa-instagram"></i></a></li>
                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-               <li><a href="#"><i class="fa fa-skype"></i></a></li>
+               <li><a href="github.com/ik-manuel"><i class="fa fa-github"></i></a></li>
             </ul>
 
             <ul class="copyright">
